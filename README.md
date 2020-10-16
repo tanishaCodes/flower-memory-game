@@ -6,7 +6,7 @@ of 12.
 
 https://game-memory-react.herokuapp.com/
 
-<img src="client\public\assets\images\screenshot.jpg" alt="Screenshot of Flower Memory Game" width="700">
+<img src="public\assets\images\screenshot.jpg" alt="Screenshot of Flower Memory Game" width="700">
 
 ## Technologies Used
 * React
